@@ -11,7 +11,7 @@
     "react-addons-pure-render-mixin": "^15.0.0"
   },
   "version": "1.0.0",
-  "main": "src/server.js",
+  "main": "src/server.ts",
   "browser": "src/client.ts",
   "author": "",
   "license": "ISC",

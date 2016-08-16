@@ -11,10 +11,14 @@
     "experimentalDecorators": true
   },
   "filesGlob": [
-    "src/**/*.ts"
+    "src/**/*.ts",
+    "typings/**/*.ts"
   ],
   "files": [
     "src/client.ts",
-    "src/package-test/test.ts"
+    "src/package-test/test.ts",
+    "src/server.ts",
+    "typings/globals/meteor/index.d.ts",
+    "typings/index.d.ts"
   ]
 }
